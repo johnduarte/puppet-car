@@ -1,0 +1,14 @@
+{
+  "name": "johnduarte-car",
+  "version": "0.1.0",
+  "author": "johnduarte",
+  "summary": "Test for puppet vs pcore custom types",
+  "license": "Apache-2.0",
+  "source": "https://github.com/johnduarte/puppet-car",
+  "project_page": "https://github.com/johnduarte/puppet-car",
+  "issues_url": "https://github.com/johnduarte/puppet-car/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
